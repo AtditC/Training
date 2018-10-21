@@ -1,0 +1,5 @@
+name: Training
+description: Training Plugin for Jala Servers
+main: ch.atdit.training.Training
+author: Atdit
+version: 0.1
